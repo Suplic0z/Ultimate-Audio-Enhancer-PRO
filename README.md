@@ -1,5 +1,11 @@
 # Ultimate-Audio Enhancer-Pro 🎧🔊
 
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-blue?logo=googlechrome&logoColor=white)  
+![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-Enabled-green)  
+![5.1 Surround](https://img.shields.io/badge/Audio-5.1%20Surround-orange)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 🚀 **Ultimate-Audio Enhancer-Pro** is a **Tampermonkey userscript** that uses the **Web Audio API** to transform any online audio/video player into an advanced sound system.  
 Optimized for **5.1 Dolby Surround** setups such as the **Logitech Z906**, it delivers real-time equalization, bass boost, and surround simulation. 🔥🎶  
 
